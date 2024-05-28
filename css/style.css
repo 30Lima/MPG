@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.menu-navegation{
+    display: inline;
+}
+
+.pages-navegation{
+    display: inline;
+    margin: 100px;
+}
+
+.logo-navegation{
+    display: inline;
+    margin-right: 900px;
+}
