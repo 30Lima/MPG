@@ -10,10 +10,28 @@
 
 .pages-navegation{
     display: inline;
-    margin: 100px;
+    margin: 75px;
 }
 
 .logo-navegation{
     display: inline;
-    margin-right: 900px;
+    margin-right: 1000px;
 }
+
+.button-navegation{
+    border: none;
+    border-radius: 200px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(255, 0, 0);
+    margin-top: 15px;
+    width: 120px;
+    height: 40px;
+    
+}
+
+.button-navegation:hover{
+    background-color: black;
+    color: red;
+}
+
+
