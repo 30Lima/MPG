@@ -12,6 +12,3 @@ function abrirJogoTres() {
     window.location.href = '/MPG/pages/jogoTres.html';
 }
 
-
-
-
